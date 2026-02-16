@@ -14,7 +14,9 @@ The project includes full front-end implementation based on Figma designs and in
 
 ## 📸 Preview
 
-➡️ [Homepage Screenshot](./screenshots/homepage.png)
+➡️ [Homepage Screenshot](./screenshots/1.webp)
+➡️ [Cathegory_Filter Screenshot](./screenshots/2.webp)
+➡️ [Add Screenshot](./screenshots/3.webp)
 
 ---
 
