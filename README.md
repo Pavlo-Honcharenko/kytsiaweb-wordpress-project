@@ -24,7 +24,7 @@ The project includes full front-end implementation based on Figma designs and in
 
 The demo video demonstrates page structure, animations, responsiveness, and content management flexibility.
 
-➡️ [Demo Video](./demo-video/kytsiaweb-demo.mp4)
+➡️ [Demo Video](./demo-video/kytsiaweb.mp4)
 
 ---
 
